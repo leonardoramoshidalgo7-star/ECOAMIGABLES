@@ -34,8 +34,8 @@ Repositorio del grupo **ECOAMIGABLES** dedicado a la organización de datos, met
 
 </details>
 
-<img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/e4066a62-f973-4f32-bae4-b42aa8941fdb" />
-<img width="1024" height="318" alt="image" src="https://github.com/user-attachments/assets/ea32a673-be2b-4a0b-bb87-d80d98902efd" />
+<img width="1600" height="600" alt="image" src="https://github.com/user-attachments/assets/9ea649f0-a5cb-4bc9-a7df-cb0a8046ae21" />
+
 
 
 
