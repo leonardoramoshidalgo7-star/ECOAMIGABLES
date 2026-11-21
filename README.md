@@ -7,7 +7,6 @@ Repositorio del grupo **ECOAMIGABLES** dedicado a la organización de datos, met
 ---
 ## 🏛️ Información Académica
 
-| Campo | Detalle |
 | :--- | :--- |
 | **Universidad** | Universidad Nacional Federico Villarreal (UNFV) |
 | **Facultad** | Facultad de Ingeniería Geográfica, Ambiental y Ecoturismo (FIGAE) |
