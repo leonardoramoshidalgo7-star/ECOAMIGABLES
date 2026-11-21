@@ -26,7 +26,7 @@ Repositorio del grupo **ECOAMIGABLES** dedicado a la organización de datos, met
 | García Huarancca Yaely Yasmin | 2024021513 | TC | 100% |
 | Liñán Díaz Christopher Esteban | 2024021594 | TC | 100% |
 | Ramos Hidalgo Leonardo Victor | 2023037506 | TC | 100% |
-| Ramos Loarte Helen Milagros | 2024021861 | TC | 100% |
+| Ramos Loarte Helen Milagros | 2024021861 | TA | 100% |
 | Ruiz Huaman Pia Luana | 2024036994 | TC | 100% |
 | Torres Ramírez María Fernanda | 2024021968 | TA | 100% |
 
