@@ -19,7 +19,8 @@ Evaluar y monitorear la composición, estructura y dinámica de la vegetación, 
 | Ruiz Huaman Pia Luana | 2024036994 
 | Torres Ramírez María Fernanda | 2024021968 
 
-<img width="1312" height="1199" alt="image" src="https://github.com/user-attachments/assets/c17c4275-aa8b-465c-b73c-8366e5025c52" />
+<img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/e4066a62-f973-4f32-bae4-b42aa8941fdb" />
+
 <img width="1024" height="318" alt="image" src="https://github.com/user-attachments/assets/ea32a673-be2b-4a0b-bb87-d80d98902efd" />
 
 
