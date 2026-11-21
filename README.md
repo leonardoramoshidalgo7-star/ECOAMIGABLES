@@ -15,15 +15,18 @@ Asignatura	Evaluación y Monitoreo de Flora, Fauna y Sistemas Ecológicos
 Docente	Ing. Cuya Matos, Oscar Alejandro
 Semestre	2026-II · Lima, Perú
 ## 👥 Integrantes del grupo
-| Alvarez Villarreyes Jesé Alexandro | 2023021261 
-| Antón López Raul Alexander | 2024021326 
-| García Huarancca Yaely Yasmin | 2024021513 
-| Liñán Díaz Christopher Esteban | 2024021594 
-| Ramos Hidalgo Leonardo Victor | 2023037506 
-| Ramos Loarte Helen Milagros | 2024021861 
-| Ruiz Huaman Pia Luana | 2024036994 
-| Torres Ramírez María Fernanda | 2024021968 
+## 👥 Integrantes del grupo
 
+| Integrante | Código | Porcentaje |
+| :--- | :---: | :---: |
+| Alvarez Villarreyes Jesé Alexandro | 2023021261 | 100% |
+| Antón López Raul Alexander | 2024021326 | 100% |
+| García Huarancca Yaely Yasmin | 2024021513 | 100% |
+| Liñán Díaz Christopher Esteban | 2024021594 | 100% |
+| Ramos Hidalgo Leonardo Victor | 2023037506 | 100% |
+| Ramos Loarte Helen Milagros | 2024021861 | 100% |
+| Ruiz Huaman Pia Luana | 2024036994 | 100% |
+| Torres Ramírez María Fernanda | 2024021968 | 100% |
 <img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/e4066a62-f973-4f32-bae4-b42aa8941fdb" />
 
 <img width="1024" height="318" alt="image" src="https://github.com/user-attachments/assets/ea32a673-be2b-4a0b-bb87-d80d98902efd" />
