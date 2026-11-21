@@ -15,8 +15,6 @@ Repositorio del grupo **ECOAMIGABLES** dedicado a la organización de datos, met
 | **Semestre** | 2026-II · Lima, Perú |
 
 
-Uploading gemini_generated_video_e2e6131a.mp4…
-
 
 
 ---
