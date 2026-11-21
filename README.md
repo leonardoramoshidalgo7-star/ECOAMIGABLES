@@ -18,31 +18,7 @@ Evaluar y monitorear la composición, estructura y dinámica de la vegetación, 
 | Ramos Loarte Helen Milagros | 2024021861 
 | Ruiz Huaman Pia Luana | 2024036994 
 | Torres Ramírez María Fernanda | 2024021968 
-## 📍 Área de estudio
-- **Ubicación:** [Distrito / Provincia / Departamento o Cuenca / Sector]
-- **Tipo de ecosistema / cobertura:** [Bosque seco, matorral, ribereño, humedal, loma, etc.]
-- **Fecha(s) de evaluación:** [DD/MM/AAAA]
 
----
-
-## 🔬 Metodología de evaluación y monitoreo
-
-### 1. Vegetación y cobertura vegetal
-- Establecimiento de parcelas, cuadrantes o transectos representativos según heterogeneidad del hábitat.
-- Registro de composición florística, abundancia, cobertura, altura y estado fenológico o sanitario.
-- Cálculo de indicadores ecológicos (riqueza, diversidad, frecuencia, dominancia o índice de valor de importancia, según corresponda).
-
-### 2. Fauna silvestre
-- Monitoreo mediante recorridos / transectos de observación, puntos de conteo o registros indirectos (huellas, excretas, restos, vocalizaciones).
-- Registro de variables ambientales y de hábitat asociadas a cada avistamiento o indicio.
-- Análisis de riqueza, abundancia relativa y gremios tróficos o sensibilidad ambiental.
-
-### 3. Sistemas ecológicos y análisis espacial
-- Delimitación del área de influencia / unidad de monitoreo y caracterización de variables físico-bióticas.
-- Procesamiento cartográfico y espacial (mapas de cobertura, uso de la tierra, puntos de muestreo y zonas de presión).
-- Identificación de amenazas, fragmentación o alteraciones del sistema ecológico.
-
----
 
 ## 📂 Estructura sugerida del repositorio
 ```text
