@@ -5,13 +5,16 @@ Repositorio del grupo **ECOAMIGABLES** dedicado a la organización de datos, met
 
 
 ---
-Universidad	Universidad Nacional Federico Villarreal (UNFV)
-Facultad	Facultad de Ingeniería Geográfica, Ambiental y Ecoturismo (FIGAE)
-Escuela	Escuela Profesional de Ingeniería Ambiental
-Asignatura	Evaluación y Monitoreo de Flora, Fauna y Sistemas Ecológicos
-Docente	Ing. Cuya Matos, Oscar Alejandro
-Semestre	2026-II · Lima, Perú
-## 👥 Integrantes del grupo
+## 🏛️ Información Académica
+
+| Campo | Detalle |
+| :--- | :--- |
+| **Universidad** | Universidad Nacional Federico Villarreal (UNFV) |
+| **Facultad** | Facultad de Ingeniería Geográfica, Ambiental y Ecoturismo (FIGAE) |
+| **Escuela** | Escuela Profesional de Ingeniería Ambiental |
+| **Asignatura** | Evaluación y Monitoreo de Flora, Fauna y Sistemas Ecológicos |
+| **Docente** | Ing. Cuya Matos, Oscar Alejandro |
+| **Semestre** | 2026-II · Lima, Perú |
 ## 👥 Integrantes del grupo
 
 | Integrante | Código | Porcentaje |
