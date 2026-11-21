@@ -8,7 +8,12 @@ Repositorio del grupo **ECOAMIGABLES** dedicado a la organización de datos, met
 Evaluar y monitorear la composición, estructura y dinámica de la vegetación, la fauna asociada y el estado de los sistemas ecológicos en el área de estudio, aplicando criterios técnicos y herramientas de análisis ambiental para diagnosticar condiciones actuales, presiones antrópicas y medidas de conservación o manejo.
 
 ---
-
+Universidad	Universidad Nacional Federico Villarreal (UNFV)
+Facultad	Facultad de Ingeniería Geográfica, Ambiental y Ecoturismo (FIGAE)
+Escuela	Escuela Profesional de Ingeniería Ambiental
+Asignatura	Evaluación y Monitoreo de Flora, Fauna y Sistemas Ecológicos
+Docente	Ing. Cuya Matos, Oscar Alejandro
+Semestre	2026-II · Lima, Perú
 ## 👥 Integrantes del grupo
 | Alvarez Villarreyes Jesé Alexandro | 2023021261 
 | Antón López Raul Alexander | 2024021326 
