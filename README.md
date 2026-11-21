@@ -2,10 +2,7 @@
 
 Repositorio del grupo **ECOAMIGABLES** dedicado a la organización de datos, metodologías de campo, análisis espacial y reportes técnicos del curso **Evaluación y Monitoreo de la Vegetación, Fauna y Sistemas Ecológicos**.
 
----
 
-## 🎯 Objetivo del proyecto
-Evaluar y monitorear la composición, estructura y dinámica de la vegetación, la fauna asociada y el estado de los sistemas ecológicos en el área de estudio, aplicando criterios técnicos y herramientas de análisis ambiental para diagnosticar condiciones actuales, presiones antrópicas y medidas de conservación o manejo.
 
 ---
 Universidad	Universidad Nacional Federico Villarreal (UNFV)
