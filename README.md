@@ -14,7 +14,10 @@ Repositorio del grupo **ECOAMIGABLES** dedicado a la organización de datos, met
 | **Docente** | Ing. Cuya Matos, Óscar Alejandro |
 | **Semestre** | 2026-II · Lima, Perú |
 
-[![Ver video](https://youtu.be/rh8leKOTNKo?si=UsQAB2Of8GWBzqe1)
+
+Uploading gemini_generated_video_e2e6131a.mp4…
+
+
 
 ---
 <img width="280" height="498" alt="image" src="https://github.com/user-attachments/assets/ec2fa692-4af7-485c-990c-db2c26449acb" />
