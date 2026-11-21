@@ -1,5 +1,3 @@
-<img width="655" height="62" alt="image" src="https://github.com/user-attachments/assets/0b1b3c43-faca-46e6-8ec0-3e244036e5d2" />
-
 # 🌿 ECOAMIGABLES — Evaluación y Monitoreo de la Vegetación, Fauna y Sistemas Ecológicos
 
 Repositorio del grupo **ECOAMIGABLES** dedicado a la organización de datos, metodologías de campo, análisis espacial y reportes técnicos del curso **Evaluación y Monitoreo de la Vegetación, Fauna y Sistemas Ecológicos**.
