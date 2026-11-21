@@ -27,6 +27,10 @@ Repositorio del grupo **ECOAMIGABLES**, dedicado a organizar datos, metodología
 | **Docente** | Ing. Cuya Matos, Óscar Alejandro |
 | **Semestre** | 2026-II · Lima, Perú |
 
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHJoZ29zMnNwMGpyYzV2d3l4eDFqZG1rbGZ2dGZsZHIyOGIybmI1cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZmuOJKsbtz7I7I1rFh/giphy.gif" alt="Biodiversidad y trabajo ecológico" width="55%">
+</p>
+
 <details>
 <summary>👥 Integrantes del grupo (Haz clic para ver)</summary>
 
@@ -89,7 +93,7 @@ ECOAMIGABLES/
 ├── lamina ramos.pdf          # Lámina técnica individual
 ├── datos/                    # Fichas de campo y matrices en CSV/XLSX
 ├── mapas_sig/                # Capas vectoriales, rásteres y proyectos SIG
-├── informes/                 # Borradores, presentaciones y entregables
+├── informes/                  # Borradores, presentaciones y entregables
 └── evidencias/               # Fotografías georreferenciadas y registros
 ```
 
