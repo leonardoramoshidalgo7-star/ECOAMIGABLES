@@ -15,7 +15,7 @@ Repositorio del grupo **ECOAMIGABLES** dedicado a la organización de datos, met
 | **Semestre** | 2026-II · Lima, Perú |
 
 ---
-<img width="380" height="281" alt="image" src="https://github.com/user-attachments/assets/922538d3-2407-44ae-a544-bb0351c765fd" />
+<img width="280" height="498" alt="image" src="https://github.com/user-attachments/assets/ec2fa692-4af7-485c-990c-db2c26449acb" />
 
 <details>
 <summary>👥 Integrantes del grupo (Haz clic para ver)</summary>
