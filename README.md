@@ -16,7 +16,8 @@ Repositorio del grupo **ECOAMIGABLES** dedicado a la organización de datos, met
 
 
 
-<img width="400" height="85" alt="image" src="https://github.com/user-attachments/assets/b9ec4662-30e9-444c-8206-bf6d2916437f" />
+<img width="400" height="85" alt="image" src="https://github.com/user-attachments/assets/b9ec4662-30e9-444c-8206-bf6d2916437f" /> <img width="849" height="325" alt="image" src="https://github.com/user-attachments/assets/275158a1-d784-48e6-a9c0-7ec2e8c39adc" />
+
 
 
 <details>
