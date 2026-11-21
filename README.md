@@ -36,6 +36,8 @@ Repositorio del grupo **ECOAMIGABLES** dedicado a la organización de datos, met
 
 <img width="1600" height="600" alt="image" src="https://github.com/user-attachments/assets/9ea649f0-a5cb-4bc9-a7df-cb0a8046ae21" />
 
+
+
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="220" viewBox="0 0 1000 220" role="img" aria-labelledby="t d">
 <title id="t">Prácticas del curso</title>
 <desc id="d">Práctica 1, individual: competencias del ingeniero ambiental. Práctica 2: diagnóstico de brechas. Práctica 3: flora de las Lomas de Lachay. Práctica 4: carbono, datos e inteligencia artificial. Práctica 5.</desc>
