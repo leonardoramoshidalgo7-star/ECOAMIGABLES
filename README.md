@@ -1,6 +1,54 @@
-Evaluación Espacio-Temporal de Coberturas Vegetales, Servicios Ecosistémicos e Integridad Ecológica en la Zona de Estudio
-El presente estudio plantea la evaluación espacio-temporal de las alteraciones en las coberturas vegetales, los servicios ecosistémicos, la integridad ecológica y el paisaje asociadas a la deposición de material particulado atmosférico generado por una planta cementera. Mediante la implementación de un diseño BACI (Before-After/Control-Impact), se contrastan las condiciones de un periodo base (2010) frente a la situación actual en zonas expuestas (Impact) y zonas de referencia (Control). Se integraron herramientas de Teledetección y Sistemas de Información Geográfica (SIG) junto con marcos metodológicos consolidados como los propuestos por Kappelle y FAO para vegetación, Zelený et al. (2021) y Zhang y Muñoz Ramírez (2019) para servicios ecosistémicos, el Ecosystem Integrity Index (Hill et al., 2023) e índices ad hoc para integridad ecológica, e instrumentos de valoración del Bureau of Land Management (BLM) y Yeomans para paisaje. La aproximación integrada permite establecer un marco analítico riguroso para diferenciar la coocurrencia espacial de causalidad ambiental directa en contextos de conflicto ambiental socio-técnico.
-1.5.1. Objetivo general
-Evaluar espacial y temporalmente los cambios en la vegetación, los servicios ecosistémicos, la integridad ecológica y el paisaje potencialmente asociados a la deposición de material particulado en el área de influencia industrial mediante teledetección, SIG y un diseño BACI.
-1.5.2. Objetivos específicos
-1. Delimitar y justificar las unidades Control e Impact en base a modelos de dispersión y topografía.2. Elaborar mapas comparativos de cobertura vegetal (2010 vs. Actualidad) según estándares FAO/Kappelle.3. Estimar la variación de servicios ecosistémicos aplicando las metodologías de Zelený et al. (2021) y Zhang y Muñoz Ramírez (2019).4. Cuantificar la integridad ecológica comparando el Ecosystem Integrity Index (Hill et al., 2023, 2026) con un índice ad hoc.5. Evaluar la calidad y fragilidad del paisaje mediante métodos indirectos (BLM y Yeomans).
+# 🌿 ECOAMIGABLES — Evaluación y Monitoreo de la Vegetación, Fauna y Sistemas Ecológicos
+
+Repositorio del grupo **ECOAMIGABLES** dedicado a la organización de datos, metodologías de campo, análisis espacial y reportes técnicos del curso **Evaluación y Monitoreo de la Vegetación, Fauna y Sistemas Ecológicos**.
+
+---
+
+## 🎯 Objetivo del proyecto
+Evaluar y monitorear la composición, estructura y dinámica de la vegetación, la fauna asociada y el estado de los sistemas ecológicos en el área de estudio, aplicando criterios técnicos y herramientas de análisis ambiental para diagnosticar condiciones actuales, presiones antrópicas y medidas de conservación o manejo.
+
+---
+
+## 👥 Integrantes del grupo
+| Alvarez Villarreyes Jesé Alexandro | 2023021261 
+| Antón López Raul Alexander | 2024021326 
+| García Huarancca Yaely Yasmin | 2024021513 
+| Liñán Díaz Christopher Esteban | 2024021594 
+| Ramos Hidalgo Leonardo Victor | 2023037506 
+| Ramos Loarte Helen Milagros | 2024021861 
+| Ruiz Huaman Pia Luana | 2024036994 
+| Torres Ramírez María Fernanda | 2024021968 
+## 📍 Área de estudio
+- **Ubicación:** [Distrito / Provincia / Departamento o Cuenca / Sector]
+- **Tipo de ecosistema / cobertura:** [Bosque seco, matorral, ribereño, humedal, loma, etc.]
+- **Fecha(s) de evaluación:** [DD/MM/AAAA]
+
+---
+
+## 🔬 Metodología de evaluación y monitoreo
+
+### 1. Vegetación y cobertura vegetal
+- Establecimiento de parcelas, cuadrantes o transectos representativos según heterogeneidad del hábitat.
+- Registro de composición florística, abundancia, cobertura, altura y estado fenológico o sanitario.
+- Cálculo de indicadores ecológicos (riqueza, diversidad, frecuencia, dominancia o índice de valor de importancia, según corresponda).
+
+### 2. Fauna silvestre
+- Monitoreo mediante recorridos / transectos de observación, puntos de conteo o registros indirectos (huellas, excretas, restos, vocalizaciones).
+- Registro de variables ambientales y de hábitat asociadas a cada avistamiento o indicio.
+- Análisis de riqueza, abundancia relativa y gremios tróficos o sensibilidad ambiental.
+
+### 3. Sistemas ecológicos y análisis espacial
+- Delimitación del área de influencia / unidad de monitoreo y caracterización de variables físico-bióticas.
+- Procesamiento cartográfico y espacial (mapas de cobertura, uso de la tierra, puntos de muestreo y zonas de presión).
+- Identificación de amenazas, fragmentación o alteraciones del sistema ecológico.
+
+---
+
+## 📂 Estructura sugerida del repositorio
+```text
+ECOAMIGABLES/
+├── README.md          # Descripción general del proyecto y metodología
+├── datos/             # Fichas de campo, matrices de vegetación y fauna (CSV/XLSX)
+├── mapas_sig/         # Capas vectoriales, rásteres y proyectos cartográficos
+├── informes/          # Borradores, presentaciones y entregables finales
+└── evidencias/        # Fotografías georreferenciadas y registros de campo
