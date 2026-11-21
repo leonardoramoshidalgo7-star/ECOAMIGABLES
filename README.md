@@ -16,8 +16,7 @@ Repositorio del grupo **ECOAMIGABLES** dedicado a la organización de datos, met
 
 
 
-
-<img width="640" height="360" alt="Gemini_Generated_Gif_my1notmy1notmy1n" src="https://github.com/user-attachments/assets/cd7c82a3-b7e0-4e39-856d-44df3dc4ec48" />
+<img width="400" height="85" alt="image" src="https://github.com/user-attachments/assets/b9ec4662-30e9-444c-8206-bf6d2916437f" />
 
 
 <details>
