@@ -18,6 +18,7 @@ Repositorio del grupo **ECOAMIGABLES** dedicado a la organización de datos, met
 
 <details>
 <summary>👥 Integrantes del grupo (Haz clic para ver)</summary>
+  
 | Integrante | Código | Sección | Porcentaje |
 | :--- | :---: | :---: | :---: |
 | Alvarez Villarreyes Jesé Alexandro | 2023021261 | `TC` | 100% |
