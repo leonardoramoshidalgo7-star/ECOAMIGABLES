@@ -1,3 +1,5 @@
+<img width="655" height="62" alt="image" src="https://github.com/user-attachments/assets/0b1b3c43-faca-46e6-8ec0-3e244036e5d2" />
+
 # 🌿 ECOAMIGABLES — Evaluación y Monitoreo de la Vegetación, Fauna y Sistemas Ecológicos
 
 Repositorio del grupo **ECOAMIGABLES** dedicado a la organización de datos, metodologías de campo, análisis espacial y reportes técnicos del curso **Evaluación y Monitoreo de la Vegetación, Fauna y Sistemas Ecológicos**.
@@ -13,10 +15,6 @@ Repositorio del grupo **ECOAMIGABLES** dedicado a la organización de datos, met
 | **Asignatura** | Evaluación y Monitoreo de Flora, Fauna y Sistemas Ecológicos |
 | **Docente** | Ing. Cuya Matos, Óscar Alejandro |
 | **Semestre** | 2026-II · Lima, Perú |
-
-
-
-<img width="400" height="85" alt="image" src="https://github.com/user-attachments/assets/b9ec4662-30e9-444c-8206-bf6d2916437f" /> <img width="849" height="325" alt="image" src="https://github.com/user-attachments/assets/275158a1-d784-48e6-a9c0-7ec2e8c39adc" />
 
 
 
