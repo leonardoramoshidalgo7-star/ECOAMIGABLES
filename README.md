@@ -2,7 +2,6 @@
 
 Repositorio del grupo **ECOAMIGABLES** dedicado a la organización de datos, metodologías de campo, análisis espacial y reportes técnicos del curso **Evaluación y Monitoreo de la Vegetación, Fauna y Sistemas Ecológicos**.
 
-<details>
 
 ## 🏛️ Información Académica
 
