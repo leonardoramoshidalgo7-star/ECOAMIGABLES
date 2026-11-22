@@ -35,8 +35,8 @@
     </tr>
   </thead>
   <tbody>
-    <tr><td><strong>Alvarez Villarreyes, Jesé Alexandro</strong></td><td><code>2023021261</code></td><td><code>TC</code></td><td>✅ <strong>100%</strong></td></tr>
-    <tr><td><strong>Antón López, Raul Alexander</strong></td><td><code>2024021326</code></td><td><code>TC</code></td><td>✅ <strong>100%</strong></td></tr>
+    <tr><td><strong>Alvarez Villarreyes, Jesé Alexandro</strong></td><td><code>2023021261</code></td><td><code>TA</code></td><td>✅ <strong>100%</strong></td></tr>
+    <tr><td><strong>Antón López, Raul Alexander</strong></td><td><code>2024021326</code></td><td><code>TA</code></td><td>✅ <strong>100%</strong></td></tr>
     <tr><td><strong>García Huarancca, Yaely Yasmin</strong></td><td><code>2024021513</code></td><td><code>TC</code></td><td>✅ <strong>100%</strong></td></tr>
     <tr><td><strong>Liñán Díaz, Christopher Esteban</strong></td><td><code>2024021594</code></td><td><code>TC</code></td><td>✅ <strong>100%</strong></td></tr>
     <tr><td><strong>Ramos Hidalgo, Leonardo Victor</strong></td><td><code>2023037506</code></td><td><code>TC</code></td><td>✅ <strong>100%</strong></td></tr>
