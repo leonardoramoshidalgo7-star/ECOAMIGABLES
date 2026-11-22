@@ -60,7 +60,7 @@
 
 <img width="1200" height="245" alt="gemini-svg" src="https://github.com/user-attachments/assets/7ccd96df-4ebd-44b5-998e-e77797521835" /><p align="center">
  
-
+<p align="center">
 | # | Práctica | Modalidad | Carpeta |
 | :---: | :--- | :---: | :---: |
 | 1 | [Competencias del ingeniero ambiental](practica-01/) | Individual | [Abrir carpeta](practica-01/) |
