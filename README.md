@@ -1,3 +1,10 @@
+<p align="center">
+  <a href="#información-sobre-el-curso"><img src="https://img.shields.io/badge/LEAME-0d1117?style=flat-square&logo=readme&logoColor=white" alt="Léame"></a>
+  <a href="#integrantes-del-equipo"><img src="https://img.shields.io/badge/Contribuyendo-0d1117?style=flat-square&logo=github&logoColor=white" alt="Contribuyendo"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/Licencia-MIT-0d1117?style=flat-square&logo=opensourceinitiative&logoColor=white" alt="Licencia MIT"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/Licencia-CC--BY--4.0-0d1117?style=flat-square&logo=creativecommons&logoColor=white" alt="Licencia CC-BY-4.0"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Seguridad-0d1117?style=flat-square&logo=github&logoColor=white" alt="Seguridad"></a>
+</p>
 
 ## Evaluación y Monitoreo de la Vegetación, Fauna y Sistemas Ecológicos
 
@@ -6,10 +13,10 @@
 </p>
 <p align="center">
   <em>Repositorio de los trabajos del grupo <strong>LOS ECOAMIGABLES</strong> en el curso de Evaluación y Monitoreo de Flora, Fauna y Sistemas Ecológicos.<br>
-  Aquí se reúnen todas las prácticas, sus dactos, documentos, ordenados para que cualquiera pueda revisarlos fácilmente.</em>
+  Aquí se reúnen todas las prácticas, sus datos y documentos, ordenados para que cualquiera pueda revisarlos fácilmente.</em>
 </p>
 
-## Información sobre el curso  
+## Información sobre el curso
 
 | | |
 | :--- | :--- |
@@ -21,8 +28,8 @@
 | **Semestre** | 2026-II · Lima, Perú |
 
 ## Integrantes del Equipo
-<img width="1600" height="1190" alt="WhatsApp Image 2026-11-21 at 7 23 02 PM" src="https://github.com/user-attachments/assets/a1f34541-b2d5-4b23-9bf8-c4256a0f1997" />
 
+<img width="1600" height="1190" alt="WhatsApp Image 2026-11-21 at 7 23 02 PM" src="https://github.com/user-attachments/assets/a1f34541-b2d5-4b23-9bf8-c4256a0f1997" />
 
 <table align="center">
   <thead>
@@ -49,10 +56,7 @@
 
 <img width="1600" height="400" alt="WhatsApp Image 2026-11-21 at 8 02 08 PM" src="https://github.com/user-attachments/assets/23d17644-43b7-4bec-936f-b6bc7f097d9e" />
 
-
 <img width="1000" height="220" alt="practicas" src="https://github.com/user-attachments/assets/a12d81a1-cacb-46b5-b438-deedf5c524e9" /> LOS ECOAMIGABLES
-
-## Prácticas
 
 <div align="center">
   <img
