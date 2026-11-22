@@ -53,14 +53,14 @@
 
 ## Prácticas
 
-| Práctica | Contenido |
-| :--- | :--- |
-| [Práctica 1](practica-01/) | Trabajos individuales de los integrantes |
-| Práctica 2 | Próximamente |
-| Práctica 3 | Próximamente |
-| Práctica 4 | Próximamente |
-| Práctica 5 | Próximamente |
-| Práctica 6 | Próximamente |
+| # | Práctica | Modalidad | Carpeta |
+| :---: | :--- | :---: | :---: |
+| 1 | [Competencias del ingeniero ambiental](practica-01/) | Individual | [Abrir carpeta](practica-01/) |
+| 2 | [Diagnóstico de brechas entre competencias y exigencias de evaluación](practica-02/) | Grupal | [Abrir carpeta](practica-02/) |
+| 3 | [Evaluación de flora y vegetación](practica-03/) | Grupal | [Abrir carpeta](practica-03/) |
+| 4 | [Afectación de la integridad ecológica, servicios ecosistémicos y paisaje](practica-04/) | Grupal | [Abrir carpeta](practica-04/) |
+| 5 | [Base de datos, secuestro de carbono e inteligencia artificial](practica-05/) | Grupal | [Abrir carpeta](practica-05/) |
+| 6 | [Determinación del esfuerzo muestral óptimo mediante modelos área-especies](practica-06/) | Grupal | [Abrir carpeta](practica-06/) |
 
 ### Práctica 1
 
@@ -77,8 +77,8 @@ Abre la carpeta para consultar los documentos organizados por integrante:
 
 ### Cómo subir una práctica
 
-1. Entra en `practica-01`.
-2. Abre la carpeta con tu nombre.
+1. Entra en la carpeta correspondiente, por ejemplo `practica-02`.
+2. Crea o abre la carpeta del equipo cuando corresponda.
 3. Selecciona **Add file → Upload files**.
-4. Sube tu informe, datos, imágenes o anexos.
+4. Sube el informe, datos, imágenes o anexos.
 5. Agrega un mensaje breve en **Commit changes**.
