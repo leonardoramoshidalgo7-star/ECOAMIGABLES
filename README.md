@@ -1,4 +1,9 @@
-
+ <a href="#información-sobre-el-curso"><img src="https://img.shields.io/badge/LEAME-0d1117?style=flat-square&logo=readme&logoColor=white" alt="Léame"></a>
+  <a href="#integrantes-del-equipo"><img src="https://img.shields.io/badge/Integrantes-0d1117?style=flat-square&logo=github&logoColor=white" alt="Integrantes"></a>
+  <a href="#prácticas"><img src="https://img.shields.io/badge/Prácticas-0d1117?style=flat-square&logo=gitbook&logoColor=white" alt="Prácticas"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/Licencia-MIT-0d1117?style=flat-square&logo=opensourceinitiative&logoColor=white" alt="Licencia MIT"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/Licencia-CC--BY--4.0-0d1117?style=flat-square&logo=creativecommons&logoColor=white" alt="Licencia CC-BY-4.0"></a>
+</p>
 
 # Evaluación y Monitoreo de la Vegetación, Fauna y Sistemas Ecológicos
 
@@ -51,14 +56,7 @@
 ## Prácticas
 
 <img width="1200" height="245" alt="gemini-svg" src="https://github.com/user-attachments/assets/7ccd96df-4ebd-44b5-998e-e77797521835" /><p align="center">
-  <a href="#información-sobre-el-curso"><img src="https://img.shields.io/badge/LEAME-0d1117?style=flat-square&logo=readme&logoColor=white" alt="Léame"></a>
-  <a href="#integrantes-del-equipo"><img src="https://img.shields.io/badge/Integrantes-0d1117?style=flat-square&logo=github&logoColor=white" alt="Integrantes"></a>
-  <a href="#prácticas"><img src="https://img.shields.io/badge/Prácticas-0d1117?style=flat-square&logo=gitbook&logoColor=white" alt="Prácticas"></a>
-  <a href="LICENSE"><img src="https://img.shields.io/badge/Licencia-MIT-0d1117?style=flat-square&logo=opensourceinitiative&logoColor=white" alt="Licencia MIT"></a>
-  <a href="LICENSE"><img src="https://img.shields.io/badge/Licencia-CC--BY--4.0-0d1117?style=flat-square&logo=creativecommons&logoColor=white" alt="Licencia CC-BY-4.0"></a>
-</p>
-
-
+ 
 
 | # | Práctica | Modalidad | Carpeta |
 | :---: | :--- | :---: | :---: |
