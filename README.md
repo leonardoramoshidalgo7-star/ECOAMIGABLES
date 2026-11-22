@@ -50,5 +50,14 @@
 <img width="1600" height="400" alt="WhatsApp Image 2026-11-21 at 8 02 08 PM" src="https://github.com/user-attachments/assets/23d17644-43b7-4bec-936f-b6bc7f097d9e" />
 
 
-<img width="1000" height="220" alt="practicas" src="https://github.com/user-attachments/assets/a12d81a1-cacb-46b5-b438-deedf5c524e9" /># LOS ECOAMIGABLES
+<img width="1000" height="220" alt="practicas" src="https://github.com/user-attachments/assets/a12d81a1-cacb-46b5-b438-deedf5c524e9" /> LOS ECOAMIGABLES
 
+## Prácticas
+
+<div align="center">
+  <img
+    src="https://github.com/user-attachments/assets/14ed98ef-2b2c-4856-b167-13ada11e3f49"
+    alt="Prácticas ECOAMIGABLES"
+    width="90%"
+  >
+</div>
