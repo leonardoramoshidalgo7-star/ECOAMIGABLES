@@ -34,9 +34,6 @@
 <img width="1024" height="434" alt="image" src="https://github.com/user-attachments/assets/6d651b93-702d-4687-8eb4-6d38325d462e" />
 
 
-
-<img width="1600" height="652" alt="image" src="https://github.com/user-attachments/assets/3906805e-9c14-434f-a5f2-41870e068cf8" />
-
 <table align="center">
   <thead>
     <tr>
