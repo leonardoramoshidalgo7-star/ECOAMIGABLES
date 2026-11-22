@@ -1,20 +1,10 @@
-# 🌿 ECOAMIGABLES
+# LOS ECOAMIGABLES
 
 ## Evaluación y Monitoreo de la Vegetación, Fauna y Sistemas Ecológicos
-
-Repositorio del grupo **ECOAMIGABLES**, dedicado a organizar datos, metodologías de campo, análisis espacial y reportes técnicos de la asignatura **Evaluación y Monitoreo de Flora, Fauna y Sistemas Ecológicos**.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/9ea649f0-a5cb-4bc9-a7df-cb0a8046ae21" alt="Trabajo de campo ECOAMIGABLES" width="90%">
 </p>
-
-## 🎯 Objetivos del proyecto
-
-- Registrar y analizar la biodiversidad vegetal y faunística.
-- Aplicar técnicas de muestreo y monitoreo ecológico en campo.
-- Organizar evidencias fotográficas y datos georreferenciados.
-- Elaborar mapas, láminas, informes y presentaciones técnicas.
-- Promover el uso responsable de los recursos naturales y la conservación ambiental.
 
 ## 🏛️ Información académica
 
