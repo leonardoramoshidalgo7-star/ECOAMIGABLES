@@ -31,6 +31,9 @@
 
 ## Integrantes del Equipo
 
+<img width="767" height="325" alt="Gemini_Generated_Image_bh59ljbh59ljbh59__1_-removebg-preview (1)" src="https://github.com/user-attachments/assets/6524f024-a15b-4ce0-9244-8c0345d63471" />
+
+
 <img width="1024" height="434" alt="image" src="https://github.com/user-attachments/assets/6d651b93-702d-4687-8eb4-6d38325d462e" />
 
 
