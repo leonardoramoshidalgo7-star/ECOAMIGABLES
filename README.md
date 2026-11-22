@@ -91,4 +91,5 @@ Abre la carpeta para consultar los documentos organizados por integrante:
 4. Sube el informe, datos, imágenes o anexos.
 5. Agrega un mensaje breve en **Commit changes**.
 
+<p align="center">
 <img width="767" height="325" alt="image" src="https://github.com/user-attachments/assets/83b84957-4ae9-4664-9c9e-1fbbac774a89" />
