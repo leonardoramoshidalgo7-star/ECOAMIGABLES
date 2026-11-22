@@ -87,3 +87,5 @@ Abre la carpeta para consultar los documentos organizados por integrante:
 3. Selecciona **Add file → Upload files**.
 4. Sube el informe, datos, imágenes o anexos.
 5. Agrega un mensaje breve en **Commit changes**.
+
+![Línea de tiempo del curso](./assets/linea-tiempo.svg)
