@@ -1,6 +1,6 @@
 <p align="center">
   <a href="#información-sobre-el-curso"><img src="https://img.shields.io/badge/LEAME-0d1117?style=flat-square&logo=readme&logoColor=white" alt="Léame"></a>
-  <a href="#integrantes-del-equipo"><img src="https://img.shields.io/badge/Contribuyendo-0d1117?style=flat-square&logo=github&logoColor=white" alt="Contribuyendo"></a>
+  <a href="#integrantes-del-equipo"><img src="https://img.shields.io/badge/Integrantes-0d1117?style=flat-square&logo=github&logoColor=white" alt="Contribuyendo"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/Licencia-MIT-0d1117?style=flat-square&logo=opensourceinitiative&logoColor=white" alt="Licencia MIT"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/Licencia-CC--BY--4.0-0d1117?style=flat-square&logo=creativecommons&logoColor=white" alt="Licencia CC-BY-4.0"></a>
   <a href="#"><img src="https://img.shields.io/badge/Seguridad-0d1117?style=flat-square&logo=github&logoColor=white" alt="Seguridad"></a>
