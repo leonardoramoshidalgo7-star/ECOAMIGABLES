@@ -16,6 +16,7 @@
   Todos los informes, datos y evidencias están organizados por práctica e integrante para facilitar su consulta.</em>
 </p>
 
+
 ## Información sobre el curso
 
 | | |
