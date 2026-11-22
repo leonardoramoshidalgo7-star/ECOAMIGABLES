@@ -27,7 +27,8 @@ Repositorio del grupo **ECOAMIGABLES**, dedicado a organizar datos, metodología
 | **Docente** | Ing. Cuya Matos, Óscar Alejandro |
 | **Semestre** | 2026-II · Lima, Perú |
 
-![Uploading image.png…]()
+<img width="1600" height="1190" alt="WhatsApp Image 2026-11-21 at 7 23 02 PM" src="https://github.com/user-attachments/assets/a1f34541-b2d5-4b23-9bf8-c4256a0f1997" />
+
 
 <details>
 <summary>👥 Integrantes del grupo (Haz clic para ver)</summary>
