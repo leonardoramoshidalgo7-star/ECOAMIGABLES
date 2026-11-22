@@ -1,22 +1,17 @@
-# 🌿 ECOAMIGABLES
+# LOS ECOAMIGABLES
 
 ## Evaluación y Monitoreo de la Vegetación, Fauna y Sistemas Ecológicos
-
-Repositorio del grupo **ECOAMIGABLES**, dedicado a organizar datos, metodologías de campo, análisis espacial y reportes técnicos de la asignatura **Evaluación y Monitoreo de Flora, Fauna y Sistemas Ecológicos**.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/9ea649f0-a5cb-4bc9-a7df-cb0a8046ae21" alt="Trabajo de campo ECOAMIGABLES" width="90%">
 </p>
+<p align="center">
+  <em>Repositorio de los trabajos del grupo <strong>LOS ECOAMIGABLES</strong> en el curso de Evaluación y Monitoreo de Flora, Fauna y Sistemas Ecológicos.<br>
+  Aquí se reúnen todas las prácticas, sus datos, y documentos, ordenados para que cualquiera pueda revisarlo.</em>
+</p>
 
-## 🎯 Objetivos del proyecto
 
-- Registrar y analizar la biodiversidad vegetal y faunística.
-- Aplicar técnicas de muestreo y monitoreo ecológico en campo.
-- Organizar evidencias fotográficas y datos georreferenciados.
-- Elaborar mapas, láminas, informes y presentaciones técnicas.
-- Promover el uso responsable de los recursos naturales y la conservación ambiental.
-
-## 🏛️ Información académica
+## Información académica
 
 | | |
 | :--- | :--- |
@@ -26,9 +21,6 @@ Repositorio del grupo **ECOAMIGABLES**, dedicado a organizar datos, metodología
 | **Asignatura** | Evaluación y Monitoreo de Flora, Fauna y Sistemas Ecológicos |
 | **Docente** | Ing. Cuya Matos, Óscar Alejandro |
 | **Semestre** | 2026-II · Lima, Perú |
-
-<img width="1600" height="1190" alt="WhatsApp Image 2026-11-21 at 7 23 02 PM" src="https://github.com/user-attachments/assets/a1f34541-b2d5-4b23-9bf8-c4256a0f1997" />
-
 
 <details>
 <summary>👥 Integrantes del grupo (Haz clic para ver)</summary>
