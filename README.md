@@ -56,7 +56,7 @@
 
 ## Prácticas
 
-<img width="1000" height="220" alt="image" src="https://github.com/user-attachments/assets/6fb04aa8-51e0-4c34-9d52-5cd536961f05" />
+<img width="4096" height="1024" alt="Gemini_Generated_Image_22dx3j22dx3j22dx" src="https://github.com/user-attachments/assets/89d3b959-56e3-4b1c-8fd3-d148e9e06acd" />
 
 
 | # | Práctica | Modalidad | Carpeta |
