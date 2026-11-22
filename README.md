@@ -46,4 +46,11 @@
   </tbody>
 </table>
 
-## Prácticas 
+## Prácticas
+
+<p align="center">
+  <picture>
+    <source media="(prefers-reduced-motion: no-preference)" srcset="https://github.com/user-attachments/assets/9ea649f0-a5cb-4bc9-a7df-cb0a8046ae21">
+    <img src="https://github.com/user-attachments/assets/9ea649f0-a5cb-4bc9-a7df-cb0a8046ae21" alt="Ruta de prácticas: competencias del ingeniero, diagnóstico de brechas, evaluación de flora y vegetación, integridad ecológica y paisaje, base de datos, carbono e IA, y esfuerzo muestral área-especies" width="100%">
+  </picture>
+</p>
