@@ -5,8 +5,12 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/9ea649f0-a5cb-4bc9-a7df-cb0a8046ae21" alt="Trabajo de campo ECOAMIGABLES" width="90%">
 </p>
+<p align="center">
+  <em>Repositorio de los trabajos del grupo <strong>LOS ECOAMIGABLES</strong> en el curso de Evaluación y Monitoreo de Flora, Fauna y Sistemas Ecológicos.<br>
+  Aquí se reúnen todas las prácticas, sus dactos, documentos, ordenados para que cualquiera pueda revisarlos fácilmente.</em>
+</p>
 
-## 🏛️ Información académica
+## Información sobre el curso  
 
 | | |
 | :--- | :--- |
@@ -17,9 +21,9 @@
 | **Docente** | Ing. Cuya Matos, Óscar Alejandro |
 | **Semestre** | 2026-II · Lima, Perú |
 
+## Integrantes del Equipo
 <img width="1600" height="1190" alt="WhatsApp Image 2026-11-21 at 7 23 02 PM" src="https://github.com/user-attachments/assets/a1f34541-b2d5-4b23-9bf8-c4256a0f1997" />
 
-## 👥 Integrantes del Equipo
 
 <table align="center">
   <thead>
@@ -42,65 +46,4 @@
   </tbody>
 </table>
 
-## 🧭 Prácticas de campo
-
-### Práctica — Pacasmayo
-
-La práctica de Pacasmayo reúne los registros, resultados y observaciones obtenidos durante el trabajo de evaluación ecológica realizado en campo.
-
-- **Ubicación:** Pacasmayo
-- **Tipo de trabajo:** Monitoreo y evaluación ecológica
-- **Productos:** Informe, registros y evidencia gráfica
-- **Responsable principal:** Leonardo Víctor Ramos Hidalgo
-
-📄 [Descargar: PRÁCTICA - PACASMAYO.pdf](PRÁCTICA%20-%20PACASMAYO.pdf)
-
-📄 [Ver lámina de Ramos](lamina%20ramos.pdf)
-
-> Próximamente se incorporarán fichas de muestreo, coordenadas geográficas, mapas temáticos y fotografías adicionales por práctica.
-
-## 🖼️ Galería de trabajo
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/9ea649f0-a5cb-4bc9-a7df-cb0a8046ae21" alt="Actividad de campo 1" width="48%">
-  <img src="https://github.com/user-attachments/assets/9ea649f0-a5cb-4bc9-a7df-cb0a8046ae21" alt="Actividad de campo 2" width="48%">
-</p>
-
-<p align="center">
-  <em>Espacio reservado para incorporar nuevas fotografías de campo, identificación de especies y análisis realizados.</em>
-</p>
-
-## 🔬 Metodología
-
-1. **Planificación:** definición del área de estudio, objetivos y variables.
-2. **Trabajo de campo:** registro de especies, datos ambientales y evidencia fotográfica.
-3. **Procesamiento:** organización de fichas, matrices y coordenadas.
-4. **Análisis:** cálculo de indicadores, tablas estadísticas y representaciones gráficas.
-5. **Cartografía:** elaboración de mapas de ubicación y distribución espacial.
-6. **Reporte:** integración de resultados, conclusiones y recomendaciones.
-
-## 📂 Estructura del repositorio
-
-```text
-ECOAMIGABLES/
-├── README.md                 # Presentación general del proyecto
-├── PRÁCTICA - PACASMAYO.pdf  # Informe principal de la práctica de Pacasmayo
-├── lamina ramos.pdf          # Lámina técnica individual
-├── datos/                    # Fichas de campo y matrices en CSV/XLSX
-├── mapas_sig/                # Capas vectoriales, rásteres y proyectos SIG
-├── informes/                  # Borradores, presentaciones y entregables
-└── evidencias/               # Fotografías georreferenciadas y registros
-```
-
-## 🤝 Contribuciones
-
-Las contribuciones al repositorio deberán organizarse por práctica y tipo de producto:
-
-- Evidencias dentro de `evidencias/practica-N/`
-- Bases de datos dentro de `datos/practica-N/`
-- Mapas dentro de `mapas_sig/practica-N/`
-- Informes finales dentro de `informes/practica-N/`
-
-## 📌 Nota
-
-Este repositorio se encuentra en actualización continua conforme se desarrollan las prácticas, evaluaciones e informes del curso.
+## Prácticas 
