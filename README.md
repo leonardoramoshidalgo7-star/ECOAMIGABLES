@@ -1,19 +1,20 @@
 <p align="center">
   <a href="#información-sobre-el-curso"><img src="https://img.shields.io/badge/LEAME-0d1117?style=flat-square&logo=readme&logoColor=white" alt="Léame"></a>
-  <a href="#integrantes-del-equipo"><img src="https://img.shields.io/badge/Integrantes-0d1117?style=flat-square&logo=github&logoColor=white" alt="Contribuyendo"></a>
+  <a href="#integrantes-del-equipo"><img src="https://img.shields.io/badge/Integrantes-0d1117?style=flat-square&logo=github&logoColor=white" alt="Integrantes"></a>
+  <a href="#prácticas"><img src="https://img.shields.io/badge/Prácticas-0d1117?style=flat-square&logo=gitbook&logoColor=white" alt="Prácticas"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/Licencia-MIT-0d1117?style=flat-square&logo=opensourceinitiative&logoColor=white" alt="Licencia MIT"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/Licencia-CC--BY--4.0-0d1117?style=flat-square&logo=creativecommons&logoColor=white" alt="Licencia CC-BY-4.0"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Seguridad-0d1117?style=flat-square&logo=github&logoColor=white" alt="Seguridad"></a>
 </p>
 
-## Evaluación y Monitoreo de la Vegetación, Fauna y Sistemas Ecológicos
+# Evaluación y Monitoreo de la Vegetación, Fauna y Sistemas Ecológicos
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/9ea649f0-a5cb-4bc9-a7df-cb0a8046ae21" alt="Trabajo de campo ECOAMIGABLES" width="90%">
 </p>
+
 <p align="center">
   <em>Repositorio de los trabajos del grupo <strong>LOS ECOAMIGABLES</strong> en el curso de Evaluación y Monitoreo de Flora, Fauna y Sistemas Ecológicos.<br>
-  Aquí se reúnen todas las prácticas, sus datos y documentos, ordenados para que cualquiera pueda revisarlos fácilmente.</em>
+  Todos los informes, datos y evidencias están organizados por práctica e integrante para facilitar su consulta.</em>
 </p>
 
 ## Información sobre el curso
@@ -28,8 +29,6 @@
 | **Semestre** | 2026-II · Lima, Perú |
 
 ## Integrantes del Equipo
-
-<img width="1600" height="1190" alt="WhatsApp Image 2026-11-21 at 7 23 02 PM" src="https://github.com/user-attachments/assets/a1f34541-b2d5-4b23-9bf8-c4256a0f1997" />
 
 <table align="center">
   <thead>
@@ -54,14 +53,32 @@
 
 ## Prácticas
 
-<img width="1600" height="400" alt="WhatsApp Image 2026-11-21 at 8 02 08 PM" src="https://github.com/user-attachments/assets/23d17644-43b7-4bec-936f-b6bc7f097d9e" />
+| Práctica | Contenido |
+| :--- | :--- |
+| [Práctica 1](practica-01/) | Trabajos individuales de los integrantes |
+| Práctica 2 | Próximamente |
+| Práctica 3 | Próximamente |
+| Práctica 4 | Próximamente |
+| Práctica 5 | Próximamente |
+| Práctica 6 | Próximamente |
 
-<img width="1000" height="220" alt="practicas" src="https://github.com/user-attachments/assets/a12d81a1-cacb-46b5-b438-deedf5c524e9" /> LOS ECOAMIGABLES
+### Práctica 1
 
-<div align="center">
-  <img
-    src="https://github.com/user-attachments/assets/14ed98ef-2b2c-4856-b167-13ada11e3f49"
-    alt="Prácticas ECOAMIGABLES"
-    width="90%"
-  >
-</div>
+Abre la carpeta para consultar los documentos organizados por integrante:
+
+- [Alvarez Villarreyes, Jesé Alexandro](practica-01/alvarez-villarreyes-jese-alexandro/)
+- [Antón López, Raul Alexander](practica-01/anton-lopez-raul-alexander/)
+- [García Huarancca, Yaely Yasmin](practica-01/garcia-huarancca-yaely-yasmin/)
+- [Liñán Díaz, Christopher Esteban](practica-01/linan-diaz-christopher-esteban/)
+- [Ramos Hidalgo, Leonardo Victor](practica-01/ramos-hidalgo-leonardo-victor/)
+- [Ramos Loarte, Helen Milagros](practica-01/ramos-loarte-helen-milagros/)
+- [Ruiz Huaman, Pia Luana](practica-01/ruiz-huaman-pia-luana/)
+- [Torres Ramírez, María Fernanda](practica-01/torres-ramirez-maria-fernanda/)
+
+### Cómo subir una práctica
+
+1. Entra en `practica-01`.
+2. Abre la carpeta con tu nombre.
+3. Selecciona **Add file → Upload files**.
+4. Sube tu informe, datos, imágenes o anexos.
+5. Agrega un mensaje breve en **Commit changes**.
