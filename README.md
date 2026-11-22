@@ -1,4 +1,4 @@
-<p align="center">
+<img width="1200" height="245" alt="gemini-svg" src="https://github.com/user-attachments/assets/7ccd96df-4ebd-44b5-998e-e77797521835" /><p align="center">
   <a href="#información-sobre-el-curso"><img src="https://img.shields.io/badge/LEAME-0d1117?style=flat-square&logo=readme&logoColor=white" alt="Léame"></a>
   <a href="#integrantes-del-equipo"><img src="https://img.shields.io/badge/Integrantes-0d1117?style=flat-square&logo=github&logoColor=white" alt="Integrantes"></a>
   <a href="#prácticas"><img src="https://img.shields.io/badge/Prácticas-0d1117?style=flat-square&logo=gitbook&logoColor=white" alt="Prácticas"></a>
@@ -56,7 +56,93 @@
 
 ## Prácticas
 
-<img width="4096" height="1024" alt="Gemini_Generated_Image_22dx3j22dx3j22dx" src="https://github.com/user-attachments/assets/89d3b959-56e3-4b1c-8fd3-d148e9e06acd" />
+![<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 245" width="1200" height="245">
+  <style>
+    .num {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+      font-size: 40px;
+      font-weight: 700;
+      text-anchor: middle;
+      dominant-baseline: central;
+    }
+    .title {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+      font-size: 17px;
+      font-weight: 700;
+      fill: #1F3B2C;
+      text-anchor: middle;
+    }
+    .sub {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+      font-size: 15px;
+      font-weight: 400;
+      fill: #4A4A4A;
+      text-anchor: middle;
+    }
+    @media (prefers-color-scheme: dark) {
+      .title { fill: #E6EDF3; }
+      .sub { fill: #8B949E; }
+    }
+  </style>
+
+  
+  <line x1="110" y1="80" x2="1090" y2="80" stroke="#9AB09C" stroke-width="10" />
+
+  
+  <g transform="translate(110, 0)">
+    <circle cx="0" cy="80" r="48" fill="#1F3B2C" />
+    <text x="0" y="80" class="num" fill="#D4B98C">1</text>
+    <text x="0" y="160" class="title">Competencias</text>
+    <text x="0" y="182" class="title">del ingeniero</text>
+    <text x="0" y="210" class="sub">Individual</text>
+  </g>
+
+  
+  <g transform="translate(306, 0)">
+    <circle cx="0" cy="80" r="48" fill="#647D4A" />
+    <text x="0" y="80" class="num" fill="#FFFFFF">2</text>
+    <text x="0" y="160" class="title">Diagnóstico</text>
+    <text x="0" y="182" class="title">de brechas</text>
+    <text x="0" y="210" class="sub">Grupal</text>
+  </g>
+
+  
+  <g transform="translate(502, 0)">
+    <circle cx="0" cy="80" r="48" fill="#647D4A" />
+    <text x="0" y="80" class="num" fill="#FFFFFF">3</text>
+    <text x="0" y="160" class="title">Evaluación de</text>
+    <text x="0" y="182" class="title">flora y vegetación</text>
+    <text x="0" y="210" class="sub">Grupal</text>
+  </g>
+
+  
+  <g transform="translate(698, 0)">
+    <circle cx="0" cy="80" r="48" fill="#4A6973" />
+    <text x="0" y="80" class="num" fill="#FFFFFF">4</text>
+    <text x="0" y="160" class="title">Integridad</text>
+    <text x="0" y="182" class="title">ecológica y paisaje</text>
+    <text x="0" y="210" class="sub">Grupal</text>
+  </g>
+
+  
+  <g transform="translate(894, 0)">
+    <circle cx="0" cy="80" r="48" fill="#4A6973" />
+    <text x="0" y="80" class="num" fill="#FFFFFF">5</text>
+    <text x="0" y="160" class="title">Base de datos,</text>
+    <text x="0" y="182" class="title">carbono e IA</text>
+    <text x="0" y="210" class="sub">Grupal</text>
+  </g>
+
+  
+  <g transform="translate(1090, 0)">
+    <circle cx="0" cy="80" r="48" fill="#647D4A" />
+    <text x="0" y="80" class="num" fill="#FFFFFF">6</text>
+    <text x="0" y="160" class="title">Esfuerzo muestral</text>
+    <text x="0" y="182" class="title">área-especies</text>
+    <text x="0" y="210" class="sub">Grupal</text>
+  </g>
+</svg>Uploading gemini-svg.svg…]()
+
 
 
 | # | Práctica | Modalidad | Carpeta |
