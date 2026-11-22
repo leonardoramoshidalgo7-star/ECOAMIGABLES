@@ -19,22 +19,28 @@
 
 <img width="1600" height="1190" alt="WhatsApp Image 2026-11-21 at 7 23 02 PM" src="https://github.com/user-attachments/assets/a1f34541-b2d5-4b23-9bf8-c4256a0f1997" />
 
+## 👥 Integrantes del Equipo
 
-<details>
-<summary>👥 Integrantes del grupo (Haz clic para ver)</summary>
-
-| Integrante | Código | Sección | Porcentaje |
-| :--- | :---: | :---: | :---: |
-| Alvarez Villarreyes Jesé Alexandro | 2023021261 | `TC` | 100% |
-| Antón López Raul Alexander | 2024021326 | `TC` | 100% |
-| García Huarancca Yaely Yasmin | 2024021513 | `TC` | 100% |
-| Liñán Díaz Christopher Esteban | 2024021594 | `TC` | 100% |
-| Ramos Hidalgo Leonardo Victor | 2023037506 | `TC` | 100% |
-| Ramos Loarte Helen Milagros | 2024021861 | `TA` | 100% |
-| Ruiz Huaman Pia Luana | 2024036994 | `TC` | 100% |
-| Torres Ramírez María Fernanda | 2024021968 | `TA` | 100% |
-
-</details>
+<table align="center">
+  <thead>
+    <tr>
+      <th>Integrante</th>
+      <th>Código</th>
+      <th>Sección</th>
+      <th>Participación</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td><strong>Alvarez Villarreyes, Jesé Alexandro</strong></td><td><code>2023021261</code></td><td><code>TC</code></td><td>✅ <strong>100%</strong></td></tr>
+    <tr><td><strong>Antón López, Raul Alexander</strong></td><td><code>2024021326</code></td><td><code>TC</code></td><td>✅ <strong>100%</strong></td></tr>
+    <tr><td><strong>García Huarancca, Yaely Yasmin</strong></td><td><code>2024021513</code></td><td><code>TC</code></td><td>✅ <strong>100%</strong></td></tr>
+    <tr><td><strong>Liñán Díaz, Christopher Esteban</strong></td><td><code>2024021594</code></td><td><code>TC</code></td><td>✅ <strong>100%</strong></td></tr>
+    <tr><td><strong>Ramos Hidalgo, Leonardo Victor</strong></td><td><code>2023037506</code></td><td><code>TC</code></td><td>✅ <strong>100%</strong></td></tr>
+    <tr><td><strong>Ramos Loarte, Helen Milagros</strong></td><td><code>2024021861</code></td><td><code>TA</code></td><td>✅ <strong>100%</strong></td></tr>
+    <tr><td><strong>Ruiz Huaman, Pia Luana</strong></td><td><code>2024036994</code></td><td><code>TC</code></td><td>✅ <strong>100%</strong></td></tr>
+    <tr><td><strong>Torres Ramírez, María Fernanda</strong></td><td><code>2024021968</code></td><td><code>TA</code></td><td>✅ <strong>100%</strong></td></tr>
+  </tbody>
+</table>
 
 ## 🧭 Prácticas de campo
 
