@@ -48,6 +48,6 @@
 
 ## Prácticas
 
+<img width="1600" height="400" alt="WhatsApp Image 2026-11-21 at 8 02 08 PM" src="https://github.com/user-attachments/assets/14ed98ef-2b2c-4856-b167-13ada11e3f49" />
 
-<img width="1600" height="400" alt="WhatsApp Image 2026-11-21 at 7 54 37 PM" src="https://github.com/user-attachments/assets/d0ab88ef-81ac-4916-84c4-9bdc5063016f" />
 
