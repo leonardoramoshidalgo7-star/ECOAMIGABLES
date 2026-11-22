@@ -48,6 +48,7 @@
 
 ## Prácticas
 
-<img width="640" height="360" alt="Gemini_Generated_Gif_u8gq0su8gq0su8gq" src="https://github.com/user-attachments/assets/d236419e-43d4-4ed6-b8c0-758a8b4c89d3" />
+<img width="1600" height="400" alt="WhatsApp Image 2026-11-21 at 8 02 08 PM" src="https://github.com/user-attachments/assets/23d17644-43b7-4bec-936f-b6bc7f097d9e" />
+
 
 
