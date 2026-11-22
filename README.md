@@ -28,12 +28,7 @@
 | **Docente** | Ing. Cuya Matos, Óscar Alejandro |
 | **Semestre** | 2026-II · Lima, Perú |
 
-<p align="center">
-  <img src="./assets/linea-tiempo.svg" alt="Línea de tiempo" width="100%">
-</p>
-<p align="center">
-  <img src="./assets/integrantes.svg" alt="Integrantes ECOAMIGABLES" width="100%">
-</p>
+
 ## Integrantes del Equipo
 
 <img width="1600" height="652" alt="image" src="https://github.com/user-attachments/assets/3906805e-9c14-434f-a5f2-41870e068cf8" />
