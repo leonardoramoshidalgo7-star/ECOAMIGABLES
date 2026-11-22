@@ -36,6 +36,7 @@
 
 
 <table align="center">
+   
   <thead>
     <tr>
       <th>Integrante</th>
