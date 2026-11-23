@@ -1,0 +1,749 @@
+{
+  "n": 5129,
+  "total_ha": 7233.295861213447,
+  "anio": [
+    {
+      "ANIO_REPORTE": 2021,
+      "registros": 1840,
+      "ha": 3304.4792,
+      "media": 1.7959,
+      "mediana": 0.3018,
+      "pct_ha": 45.6843
+    },
+    {
+      "ANIO_REPORTE": 2022,
+      "registros": 2032,
+      "ha": 2341.8921,
+      "media": 1.1525,
+      "mediana": 0.2428,
+      "pct_ha": 32.3766
+    },
+    {
+      "ANIO_REPORTE": 2023,
+      "registros": 1257,
+      "ha": 1586.9246,
+      "media": 1.2625,
+      "mediana": 0.3917,
+      "pct_ha": 21.9392
+    }
+  ],
+  "causa": [
+    {
+      "DEFO_CAUSA": "AGRICULTURA",
+      "registros": 4886,
+      "ha": 7090.2166,
+      "media": 1.4511,
+      "mediana": 0.3137,
+      "pct_ha": 98.0219
+    },
+    {
+      "DEFO_CAUSA": "TRANSPORTE",
+      "registros": 105,
+      "ha": 68.4735,
+      "media": 0.6521,
+      "mediana": 0.1326,
+      "pct_ha": 0.9466
+    },
+    {
+      "DEFO_CAUSA": "MINERIA",
+      "registros": 97,
+      "ha": 51.8429,
+      "media": 0.5345,
+      "mediana": 0.1509,
+      "pct_ha": 0.7167
+    },
+    {
+      "DEFO_CAUSA": "OCUPACION HUMANA",
+      "registros": 41,
+      "ha": 22.7629,
+      "media": 0.5552,
+      "mediana": 0.0819,
+      "pct_ha": 0.3147
+    }
+  ],
+  "bosque": [
+    {
+      "TIPO_BOSQUE": "SECUNDARIO",
+      "registros": 2452,
+      "ha": 4503.1973,
+      "media": 1.8365,
+      "mediana": 0.3306,
+      "pct_ha": 62.2565
+    },
+    {
+      "TIPO_BOSQUE": "PRIMARIO",
+      "registros": 2677,
+      "ha": 2730.0985,
+      "media": 1.0198,
+      "mediana": 0.27,
+      "pct_ha": 37.7435
+    }
+  ],
+  "zona": [
+    {
+      "ZONIFI_ANP": "ZONA DE APROVECHAMIENTO DIRECTO",
+      "registros": 1527,
+      "ha": 3096.9812,
+      "media": 2.0281,
+      "mediana": 0.36,
+      "pct_ha": 42.8156
+    },
+    {
+      "ZONIFI_ANP": "ZONA DE USO ESPECIAL",
+      "registros": 1405,
+      "ha": 2269.5245,
+      "media": 1.6153,
+      "mediana": 0.3264,
+      "pct_ha": 31.3761
+    },
+    {
+      "ZONIFI_ANP": "ZONA SILVESTRE",
+      "registros": 965,
+      "ha": 975.7962,
+      "media": 1.0112,
+      "mediana": 0.2529,
+      "pct_ha": 13.4903
+    },
+    {
+      "ZONIFI_ANP": "NO ZONIFICADO",
+      "registros": 362,
+      "ha": 459.0149,
+      "media": 1.268,
+      "mediana": 0.5412,
+      "pct_ha": 6.3459
+    },
+    {
+      "ZONIFI_ANP": "ZONA DE RECUPERACION",
+      "registros": 411,
+      "ha": 225.6231,
+      "media": 0.549,
+      "mediana": 0.1811,
+      "pct_ha": 3.1192
+    },
+    {
+      "ZONIFI_ANP": "ZONA DE PROTECCION ESTRICTA",
+      "registros": 251,
+      "ha": 109.7724,
+      "media": 0.4373,
+      "mediana": 0.1569,
+      "pct_ha": 1.5176
+    },
+    {
+      "ZONIFI_ANP": "ZONA DE USO TURISTICO Y RECREATIVO",
+      "registros": 207,
+      "ha": 96.4634,
+      "media": 0.466,
+      "mediana": 0.1763,
+      "pct_ha": 1.3336
+    },
+    {
+      "ZONIFI_ANP": "ZONA HISTORICO CULTURA",
+      "registros": 1,
+      "ha": 0.1201,
+      "media": 0.1201,
+      "mediana": 0.1201,
+      "pct_ha": 0.0017
+    }
+  ],
+  "anp": [
+    {
+      "ANP": "EL SIRA",
+      "registros": 722,
+      "ha": 2513.142,
+      "media": 3.4808,
+      "mediana": 0.4828,
+      "pct_ha": 34.7441
+    },
+    {
+      "ANP": "SAN MATIAS-SAN CARLOS",
+      "registros": 317,
+      "ha": 1246.8178,
+      "media": 3.9332,
+      "mediana": 0.3835,
+      "pct_ha": 17.2372
+    },
+    {
+      "ANP": "PACAYA-SAMIRIA",
+      "registros": 935,
+      "ha": 952.7288,
+      "media": 1.019,
+      "mediana": 0.3308,
+      "pct_ha": 13.1714
+    },
+    {
+      "ANP": "ALTO MAYO",
+      "registros": 752,
+      "ha": 644.7778,
+      "media": 0.8574,
+      "mediana": 0.331,
+      "pct_ha": 8.914
+    },
+    {
+      "ANP": "SANTIAGO COMAINA",
+      "registros": 279,
+      "ha": 307.7627,
+      "media": 1.1031,
+      "mediana": 0.5371,
+      "pct_ha": 4.2548
+    },
+    {
+      "ANP": "BAHUAJA-SONENE",
+      "registros": 227,
+      "ha": 221.0309,
+      "media": 0.9737,
+      "mediana": 0.2366,
+      "pct_ha": 3.0557
+    },
+    {
+      "ANP": "DEL MANU",
+      "registros": 276,
+      "ha": 204.2133,
+      "media": 0.7399,
+      "mediana": 0.27,
+      "pct_ha": 2.8232
+    },
+    {
+      "ANP": "TAMBOPATA",
+      "registros": 282,
+      "ha": 196.0372,
+      "media": 0.6952,
+      "mediana": 0.1815,
+      "pct_ha": 2.7102
+    },
+    {
+      "ANP": "ASHANINKA",
+      "registros": 165,
+      "ha": 162.6192,
+      "media": 0.9856,
+      "mediana": 0.3656,
+      "pct_ha": 2.2482
+    },
+    {
+      "ANP": "RÍO NIEVA",
+      "registros": 80,
+      "ha": 151.0697,
+      "media": 1.8884,
+      "mediana": 0.8454,
+      "pct_ha": 2.0885
+    },
+    {
+      "ANP": "YANESHA",
+      "registros": 149,
+      "ha": 125.2274,
+      "media": 0.8405,
+      "mediana": 0.1525,
+      "pct_ha": 1.7313
+    },
+    {
+      "ANP": "MACHIGUENGA",
+      "registros": 123,
+      "ha": 98.6482,
+      "media": 0.802,
+      "mediana": 0.337,
+      "pct_ha": 1.3638
+    },
+    {
+      "ANP": "YANACHAGA-CHEMILLÉN",
+      "registros": 141,
+      "ha": 87.1965,
+      "media": 0.6184,
+      "mediana": 0.18,
+      "pct_ha": 1.2055
+    },
+    {
+      "ANP": "OTISHI",
+      "registros": 107,
+      "ha": 76.0154,
+      "media": 0.7104,
+      "mediana": 0.3446,
+      "pct_ha": 1.0509
+    },
+    {
+      "ANP": "HUIMEKI",
+      "registros": 81,
+      "ha": 69.4,
+      "media": 0.8568,
+      "mediana": 0.1968,
+      "pct_ha": 0.9595
+    },
+    {
+      "ANP": "ALLPAHUAYO MISHANA",
+      "registros": 133,
+      "ha": 53.9504,
+      "media": 0.4056,
+      "mediana": 0.102,
+      "pct_ha": 0.7459
+    },
+    {
+      "ANP": "CORDILLERA DE COLÁN",
+      "registros": 75,
+      "ha": 30.814,
+      "media": 0.4109,
+      "mediana": 0.2165,
+      "pct_ha": 0.426
+    },
+    {
+      "ANP": "ICHIGKAT MUJA-CORDILLERA DEL CÓNDOR",
+      "registros": 41,
+      "ha": 21.3225,
+      "media": 0.5201,
+      "mediana": 0.4377,
+      "pct_ha": 0.2948
+    },
+    {
+      "ANP": "MEGANTONI",
+      "registros": 36,
+      "ha": 13.9615,
+      "media": 0.3878,
+      "mediana": 0.27,
+      "pct_ha": 0.193
+    },
+    {
+      "ANP": "AMARAKAERI",
+      "registros": 19,
+      "ha": 13.9205,
+      "media": 0.7327,
+      "mediana": 0.5262,
+      "pct_ha": 0.1925
+    },
+    {
+      "ANP": "DE TINGO MARÍA",
+      "registros": 68,
+      "ha": 12.4869,
+      "media": 0.1836,
+      "mediana": 0.0485,
+      "pct_ha": 0.1726
+    },
+    {
+      "ANP": "CORDILLERA AZUL",
+      "registros": 24,
+      "ha": 9.5907,
+      "media": 0.3996,
+      "mediana": 0.0798,
+      "pct_ha": 0.1326
+    },
+    {
+      "ANP": "AIRO PAI",
+      "registros": 34,
+      "ha": 6.1614,
+      "media": 0.1812,
+      "mediana": 0.0482,
+      "pct_ha": 0.0852
+    },
+    {
+      "ANP": "TUNTANAIN",
+      "registros": 33,
+      "ha": 5.7751,
+      "media": 0.175,
+      "mediana": 0.094,
+      "pct_ha": 0.0798
+    },
+    {
+      "ANP": "ALTO PURÚS",
+      "registros": 5,
+      "ha": 2.8102,
+      "media": 0.562,
+      "mediana": 0.0364,
+      "pct_ha": 0.0389
+    },
+    {
+      "ANP": "TABACONAS-NAMBALLE",
+      "registros": 8,
+      "ha": 2.3448,
+      "media": 0.2931,
+      "mediana": 0.076,
+      "pct_ha": 0.0324
+    },
+    {
+      "ANP": "MATSÉS",
+      "registros": 9,
+      "ha": 1.4465,
+      "media": 0.1607,
+      "mediana": 0.0245,
+      "pct_ha": 0.02
+    },
+    {
+      "ANP": "PUCACURO",
+      "registros": 1,
+      "ha": 0.81,
+      "media": 0.81,
+      "mediana": 0.81,
+      "pct_ha": 0.0112
+    },
+    {
+      "ANP": "SIERRA DEL DIVISOR",
+      "registros": 3,
+      "ha": 0.7462,
+      "media": 0.2487,
+      "mediana": 0.1346,
+      "pct_ha": 0.0103
+    },
+    {
+      "ANP": "GÜEPPÍ-SEKIME",
+      "registros": 2,
+      "ha": 0.36,
+      "media": 0.18,
+      "mediana": 0.18,
+      "pct_ha": 0.005
+    },
+    {
+      "ANP": "MACHUPICCHU",
+      "registros": 2,
+      "ha": 0.1081,
+      "media": 0.054,
+      "mediana": 0.054,
+      "pct_ha": 0.0015
+    }
+  ],
+  "depto": [
+    {
+      "DEPARTAMENTO": "UCAYALI",
+      "registros": 377,
+      "ha": 2171.4932,
+      "media": 5.7599,
+      "mediana": 0.8928,
+      "pct_ha": 30.0208
+    },
+    {
+      "DEPARTAMENTO": "PASCO",
+      "registros": 751,
+      "ha": 1560.2556,
+      "media": 2.0776,
+      "mediana": 0.2577,
+      "pct_ha": 21.5705
+    },
+    {
+      "DEPARTAMENTO": "LORETO",
+      "registros": 1409,
+      "ha": 1346.7427,
+      "media": 0.9558,
+      "mediana": 0.305,
+      "pct_ha": 18.6187
+    },
+    {
+      "DEPARTAMENTO": "SAN MARTIN",
+      "registros": 753,
+      "ha": 644.8349,
+      "media": 0.8564,
+      "mediana": 0.3308,
+      "pct_ha": 8.9148
+    },
+    {
+      "DEPARTAMENTO": "MADRE DE DIOS",
+      "registros": 524,
+      "ha": 364.28,
+      "media": 0.6952,
+      "mediana": 0.2354,
+      "pct_ha": 5.0362
+    },
+    {
+      "DEPARTAMENTO": "AMAZONAS",
+      "registros": 317,
+      "ha": 264.1501,
+      "media": 0.8333,
+      "mediana": 0.3201,
+      "pct_ha": 3.6519
+    },
+    {
+      "DEPARTAMENTO": "HUANUCO",
+      "registros": 268,
+      "ha": 256.1953,
+      "media": 0.956,
+      "mediana": 0.158,
+      "pct_ha": 3.5419
+    },
+    {
+      "DEPARTAMENTO": "JUNIN",
+      "registros": 250,
+      "ha": 221.616,
+      "media": 0.8865,
+      "mediana": 0.349,
+      "pct_ha": 3.0638
+    },
+    {
+      "DEPARTAMENTO": "PUNO",
+      "registros": 219,
+      "ha": 219.0151,
+      "media": 1.0001,
+      "mediana": 0.2428,
+      "pct_ha": 3.0279
+    },
+    {
+      "DEPARTAMENTO": "CUSCO",
+      "registros": 253,
+      "ha": 182.3682,
+      "media": 0.7208,
+      "mediana": 0.2806,
+      "pct_ha": 2.5212
+    },
+    {
+      "DEPARTAMENTO": "CAJAMARCA",
+      "registros": 8,
+      "ha": 2.3448,
+      "media": 0.2931,
+      "mediana": 0.076,
+      "pct_ha": 0.0324
+    }
+  ],
+  "categoria": [
+    {
+      "CATEGORIA": "RESERVA COMUNAL",
+      "registros": 1326,
+      "ha": 2994.8938,
+      "media": 2.2586,
+      "mediana": 0.3291,
+      "pct_ha": 41.4043
+    },
+    {
+      "CATEGORIA": "BOSQUE DE PROTECCIÓN",
+      "registros": 1069,
+      "ha": 1891.5955,
+      "media": 1.7695,
+      "mediana": 0.3457,
+      "pct_ha": 26.1512
+    },
+    {
+      "CATEGORIA": "RESERVA NACIONAL",
+      "registros": 1360,
+      "ha": 1204.973,
+      "media": 0.886,
+      "mediana": 0.27,
+      "pct_ha": 16.6587
+    },
+    {
+      "CATEGORIA": "PARQUE NACIONAL",
+      "registros": 894,
+      "ha": 635.7726,
+      "media": 0.7112,
+      "mediana": 0.2176,
+      "pct_ha": 8.7895
+    },
+    {
+      "CATEGORIA": "ZONAS RESERVADAS",
+      "registros": 359,
+      "ha": 458.8324,
+      "media": 1.2781,
+      "mediana": 0.5438,
+      "pct_ha": 6.3433
+    },
+    {
+      "CATEGORIA": "SANTUARIO NACIONAL",
+      "registros": 119,
+      "ha": 47.1203,
+      "media": 0.396,
+      "mediana": 0.253,
+      "pct_ha": 0.6514
+    },
+    {
+      "CATEGORIA": "SANTUARIO HISTÓRICO",
+      "registros": 2,
+      "ha": 0.1081,
+      "media": 0.054,
+      "mediana": 0.054,
+      "pct_ha": 0.0015
+    }
+  ],
+  "fuente": [
+    {
+      "FUENTE_IMAG": "PLANET",
+      "registros": 818,
+      "ha": 3140.6519,
+      "media": 3.8394,
+      "mediana": 1.0211,
+      "pct_ha": 43.4194
+    },
+    {
+      "FUENTE_IMAG": "GLADS2",
+      "registros": 2595,
+      "ha": 2079.3628,
+      "media": 0.8013,
+      "mediana": 0.1592,
+      "pct_ha": 28.7471
+    },
+    {
+      "FUENTE_IMAG": "PNCB LANDSAT",
+      "registros": 1379,
+      "ha": 1929.8274,
+      "media": 1.3994,
+      "mediana": 0.4306,
+      "pct_ha": 26.6798
+    },
+    {
+      "FUENTE_IMAG": "GFW INTEGRADAS",
+      "registros": 337,
+      "ha": 83.4537,
+      "media": 0.2476,
+      "mediana": 0.0653,
+      "pct_ha": 1.1537
+    }
+  ],
+  "conf": [
+    {
+      "CONFIABILIDAD": "ALTO",
+      "registros": 4877,
+      "ha": 7138.2622,
+      "media": 1.4637,
+      "mediana": 0.32,
+      "pct_ha": 98.6862
+    },
+    {
+      "CONFIABILIDAD": "BAJO",
+      "registros": 211,
+      "ha": 88.4437,
+      "media": 0.4192,
+      "mediana": 0.0951,
+      "pct_ha": 1.2227
+    },
+    {
+      "CONFIABILIDAD": "NO DETERMINADO",
+      "registros": 41,
+      "ha": 6.59,
+      "media": 0.1607,
+      "mediana": 0.0739,
+      "pct_ha": 0.0911
+    }
+  ],
+  "desc": {
+    "n": 5129,
+    "media": 1.4102741004510522,
+    "mediana": 0.2984942711523,
+    "sd": 5.151446542919102,
+    "min": 2.96630287253e-05,
+    "p25": 0.07985157864143,
+    "p75": 0.975648323583746,
+    "p95": 5.128149213841214,
+    "max": 152.509626225227,
+    "asimetria": 12.889992284051305
+  },
+  "desc_por_bosque": [
+    {
+      "TIPO_BOSQUE": "PRIMARIO",
+      "count": 2677.0,
+      "mean": 1.0198,
+      "std": 2.7617,
+      "min": 0.0,
+      "25%": 0.0725,
+      "50%": 0.27,
+      "75%": 0.8814,
+      "max": 57.2418
+    },
+    {
+      "TIPO_BOSQUE": "SECUNDARIO",
+      "count": 2452.0,
+      "mean": 1.8365,
+      "std": 6.8444,
+      "min": 0.0,
+      "25%": 0.09,
+      "50%": 0.3306,
+      "75%": 1.0913,
+      "max": 152.5096
+    }
+  ],
+  "pivot_anio_bosque": [
+    {
+      "ANIO_REPORTE": 2021,
+      "PRIMARIO": 976.64,
+      "SECUNDARIO": 2327.84
+    },
+    {
+      "ANIO_REPORTE": 2022,
+      "PRIMARIO": 924.42,
+      "SECUNDARIO": 1417.47
+    },
+    {
+      "ANIO_REPORTE": 2023,
+      "PRIMARIO": 829.04,
+      "SECUNDARIO": 757.88
+    }
+  ],
+  "pivot_anp_anio": [
+    {
+      "ANP": "EL SIRA",
+      "2021": 1274.09,
+      "2022": 706.97,
+      "2023": 532.08
+    },
+    {
+      "ANP": "SAN MATIAS-SAN CARLOS",
+      "2021": 610.01,
+      "2022": 394.6,
+      "2023": 242.21
+    },
+    {
+      "ANP": "PACAYA-SAMIRIA",
+      "2021": 285.01,
+      "2022": 457.78,
+      "2023": 209.94
+    },
+    {
+      "ANP": "ALTO MAYO",
+      "2021": 260.17,
+      "2022": 229.28,
+      "2023": 155.33
+    },
+    {
+      "ANP": "SANTIAGO COMAINA",
+      "2021": 93.91,
+      "2022": 136.56,
+      "2023": 77.29
+    },
+    {
+      "ANP": "BAHUAJA-SONENE",
+      "2021": 166.96,
+      "2022": 31.06,
+      "2023": 23.01
+    },
+    {
+      "ANP": "DEL MANU",
+      "2021": 97.2,
+      "2022": 40.74,
+      "2023": 66.27
+    },
+    {
+      "ANP": "TAMBOPATA",
+      "2021": 74.79,
+      "2022": 40.5,
+      "2023": 80.75
+    },
+    {
+      "ANP": "ASHANINKA",
+      "2021": 70.72,
+      "2022": 49.43,
+      "2023": 42.47
+    },
+    {
+      "ANP": "RÍO NIEVA",
+      "2021": 64.47,
+      "2022": 61.97,
+      "2023": 24.63
+    }
+  ],
+  "fuente_por_anio": [
+    {
+      "ANIO_REPORTE": 2021,
+      "GFW INTEGRADAS": 0.0,
+      "GLADS2": 962.22,
+      "PLANET": 1950.19,
+      "PNCB LANDSAT": 392.08
+    },
+    {
+      "ANIO_REPORTE": 2022,
+      "GFW INTEGRADAS": 28.43,
+      "GLADS2": 1017.24,
+      "PLANET": 267.1,
+      "PNCB LANDSAT": 1029.12
+    },
+    {
+      "ANIO_REPORTE": 2023,
+      "GFW INTEGRADAS": 55.02,
+      "GLADS2": 99.91,
+      "PLANET": 923.36,
+      "PNCB LANDSAT": 508.63
+    }
+  ],
+  "concentracion_top3_anp_pct": 65.15271409931734,
+  "concentracion_top5_anp_pct": 78.32154545823033,
+  "n_anp": 31,
+  "n_distritos": 62,
+  "cambio_2021_2023_pct": -51.97655935257042
+}
