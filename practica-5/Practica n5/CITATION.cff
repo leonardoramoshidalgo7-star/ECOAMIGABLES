@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "Si usa este repositorio, cite como se indica a continuacion."
+title: "Curaduria y analisis exploratorio de la base de deforestacion en Areas Naturales Protegidas del Peru (SERNANP, 2021-2023)"
+type: dataset
+authors:
+  - family-names: "(Apellido 1)"
+    given-names: "(Nombre 1)"
+  - family-names: "(Apellido 2)"
+    given-names: "(Nombre 2)"
+date-released: "2026-11-22"
+version: "1.0.0"
+license: MIT
+repository-code: "https://github.com/TU_USUARIO/practica-04-deforestacion-anp"
+# doi: "10.5281/zenodo.XXXXXXX"   # completar al publicar el release en Zenodo
+keywords:
+  - FAIR
+  - curaduria de datos
+  - deforestacion
+  - areas naturales protegidas
+  - emisiones de carbono
+references:
+  - type: article
+    authors:
+      - family-names: Wilkinson
+        given-names: "Mark D."
+    title: "The FAIR guiding principles for scientific data management and stewardship"
+    journal: "Scientific Data"
+    volume: 3
+    year: 2016
+    doi: "10.1038/sdata.2016.18"
